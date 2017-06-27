@@ -1,6 +1,6 @@
 # Node template
 
-Template for nodejs based projects.
+Template for internal [node.js](https://nodejs.org/en/) based projects.
 
 - Editorconfig
 - ESlint
